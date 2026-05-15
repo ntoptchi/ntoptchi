@@ -1,4 +1,4 @@
-<!-- Nicholas Toptchi readme, give credit to any use of pcitures -->
+<!-- Nicholas Toptchi readme, give credit to any use -->
 <h1 align="center">Nicholas Toptchi</h1>
 
 <p align="center">
@@ -53,8 +53,6 @@ Incoming Software Engineer Co-op at [CAE](https://www.cae.com/) — stepping int
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </p>
-
----
 
 ![](https://github-readme-stats.shion.dev/api?username=ntoptchi&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false)
 
