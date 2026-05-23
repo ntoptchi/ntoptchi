@@ -11,14 +11,14 @@
 
 Rising junior at USF — strong interest in software engineering and development
 
-Incoming Software Engineer Co-op at [CAE](https://www.cae.com/) — stepping into real-world engineering for the first time and ready for it
+Software Engineer Co-op at [CAE](https://www.cae.com/) — stepping into real-world engineering for the first time and ready for it
 
 ---
 
 |  Education |  Experience |
 |:---:|:---:|
 | **University of South Florida** | **Software Engineer Co-op** @ [CAE](https://www.cae.com/) |
-| B.S. Computer Science · `2023 – 2027` | `Incoming Summer 2026` |
+| B.S. Computer Science · `2023 – 2027` | `Summer 2026` |
 
 ---
 
