@@ -7,6 +7,21 @@
 
 <div align="center">
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ntoptchi/ntoptchi/output/github-contribution-grid-snake-dark-purple.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ntoptchi/ntoptchi/output/github-contribution-grid-snake-dark-purple.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/ntoptchi/ntoptchi/output/github-contribution-grid-snake-dark-purple.svg"
+  />
+</picture>
+
 ## About Me
 
 Rising junior at USF — strong interest in software engineering and development
