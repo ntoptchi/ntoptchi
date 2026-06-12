@@ -10,17 +10,18 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ntoptchi/ntoptchi/output/github-contribution-grid-snake-dark-purple.svg"
+    srcset="https://raw.githubusercontent.com/ntoptchi/ntoptchi/output/github-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ntoptchi/ntoptchi/output/github-contribution-grid-snake-dark-purple.svg"
+    srcset="https://raw.githubusercontent.com/ntoptchi/ntoptchi/output/github-snake.svg"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/ntoptchi/ntoptchi/output/github-contribution-grid-snake-dark-purple.svg"
+    src="https://raw.githubusercontent.com/ntoptchi/ntoptchi/output/github-snake-dark.svg"
   />
 </picture>
+
 
 ## About Me
 
@@ -72,24 +73,5 @@ Software Engineer Co-op at [CAE](https://www.cae.com/) — stepping into real-wo
 ![](https://github-readme-stats.shion.dev/api?username=ntoptchi&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false)
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ntoptchi&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
----
-
-## Contribution Snake
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ntoptchi/ntoptchi/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ntoptchi/ntoptchi/output/github-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/ntoptchi/ntoptchi/output/github-snake-dark.svg"
-  />
-</picture>
 
 </div>
