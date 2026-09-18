@@ -2,7 +2,7 @@
 <h1 align="center">Nicholas Toptchi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=540&lines=Software+Engineer+Co-op+%40+CAE+(Summer+2026);CS+Student+%40+University+of+South+Florida;Full-Stack+%7C+Systems+%7C+Machine+Learning;Always+building%2C+always+learning." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=540&lines=Software+Engineer+Co-op+%40+CAE+(Present);CS+Student+%40+University+of+South+Florida;Full-Stack+%7C+Systems+%7C+Machine+Learning;Always+building%2C+always+learning." alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -33,8 +33,8 @@ Software Engineer Co-op at [CAE](https://www.cae.com/) — stepping into real-wo
 
 |  Education |  Experience |
 |:---:|:---:|
-| **University of South Florida** | **Software Engineer Co-op** @ [CAE](https://www.cae.com/) |
-| B.S. Computer Science · `2023 – 2027` | `Summer 2026` |
+| **University of South Florida** | **Software Engineer Co-op** @ [CAE USA](https://www.cae.com/) |
+| B.S. Computer Science · `2023 – 2027` | `Summer 2026 - Present` |
 
 ---
 
