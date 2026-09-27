@@ -41,7 +41,7 @@
 |  Education |  Experience |
 |:---:|:---:|
 | **University of South Florida** | **Software Engineer Co-op** @ [CAE USA](https://www.cae.com/cae-usa/) |
-| B.S. Computer Science · `2023 – 2027` | `Summer 2026 – Present` |
+| B.S. Computer Science · `Aug 2023 –  May 2027` | `Summer 2026 – Present` |
 
 ---
 
