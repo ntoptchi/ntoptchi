@@ -2,7 +2,13 @@
 <h1 align="center">Nicholas Toptchi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=540&lines=Software+Engineer+Co-op+%40+CAE+(Summer+2026);CS+Student+%40+University+of+South+Florida;Full-Stack+%7C+Systems+%7C+Machine+Learning;Always+building%2C+always+learning." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Software+Engineer+Co-op+%40+CAE+USA;CS+Student+%40+University+of+South+Florida;Full-Stack+%7C+Systems+%7C+Machine+Learning;Always+building%2C+always+learning." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nicholas-toptchi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:nick.fl0005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://ntoptchi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-262626?style=for-the-badge&logo=vercel&logoColor=green" /></a>
 </p>
 
 <div align="center">
@@ -22,52 +28,59 @@
   />
 </picture>
 
-
 ## About Me
 
-Rising junior at USF — strong interest in software engineering and development
+🎓 Rising Senior at USF — strong interest in software engineering/development and AI/ML
 
-Software Engineer Co-op at [CAE](https://www.cae.com/) — stepping into real-world engineering for the first time and ready for it
+💼 Software Engineer Co-op at [CAE USA](https://www.cae.com/cae-usa/) — stepping into real-world engineering for the first time and ready for it
+
+🔭 Currently focused on: *learning Go + Leetcoding when i have the time*
 
 ---
 
 |  Education |  Experience |
 |:---:|:---:|
-| **University of South Florida** | **Software Engineer Co-op** @ [CAE](https://www.cae.com/) |
-| B.S. Computer Science · `2023 – 2027` | `Summer 2026` |
+| **University of South Florida** | **Software Engineer Co-op** @ [CAE USA](https://www.cae.com/cae-usa/) |
+| B.S. Computer Science · `2023 – 2027` | `Summer 2026 – Present` |
 
 ---
 
-##  Technical Skills
+## Technical Skills
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,dart,bash" />
-</p>
+<table>
+<tr>
+<tr>
+  <td colspan="2" align="center" style="border-top: none;">
+    <div style="max-width: 100%; margin: 0 auto; text-align: center;">
+      <b>Languages</b><br><br>
+      <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,ts,bash" />
+    </div>
+  </td>
+</tr>
+  <tr>
+    <td align="center"><b>Databases</b><br><br>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+    </td>
+    <td align="center"><b>Cloud & DevOps</b><br><br>
+      <img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,githubactions,jenkins" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Data & ML</b><br><br>
+      <img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv" />
+    </td>
+    <td align="center"><b>Tools</b><br><br>
+      <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker" />
+    </td>
+  </tr>
+</table>
 
-### Frontend & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,vite,html,css,nodejs,fastapi" />
-</p>
+---
 
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
 
-### Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,githubactions,digitalocean" />
-</p>
-
-### Data & ML
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+<p align="center">
+  <img src="https://img.shields.io/github/followers/ntoptchi?label=Followers&style=for-the-badge&color=58A6FF&logo=github" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ntoptchi&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=58A6FF&logo=github" />
 </p>
 
 ![](https://github-readme-stats.shion.dev/api?username=ntoptchi&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false)
