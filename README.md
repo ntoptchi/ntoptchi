@@ -25,7 +25,7 @@
 
 ## About Me
 
-Rising junior at USF — strong interest in software engineering and development
+Rising Senior at USF — strong interest in software engineering and development
 
 Software Engineer Co-op at [CAE](https://www.cae.com/) — stepping into real-world engineering for the first time and ready for it
 
